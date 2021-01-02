@@ -56,8 +56,8 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" width=35 height=35 />
 </p>
 
+<div style="text-center">
 <h1>explore my projects😉</h1>
-   
-<img align="bottom-center" width="200" height="200" src="https://media.giphy.com/media/ZCHGgJc3zKM3w7Ds8l/giphy.gif">
-
-
+   <img align="center" width="200" height="200" src="https://media.giphy.com/media/ZCHGgJc3zKM3w7Ds8l/giphy.gif">
+</p>
+</div>
