@@ -37,12 +37,23 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 <p>
 <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width=35 height=35/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width=35 height=35/>
- </p> 
+</p> 
 
-<h3>Data<h3>
+<h3>Data</h3>
  <p>
 <img src="https://img.icons8.com/color/452/mongodb.png" width=35 height=35 />
-<img src="https://img.icons8.com/color/452/mongodb.png" width=35 height=35 />
+<img src="https://img.icons8.com/color/452/microsoft-sql-server.png" width=35 height=35 />
+</p>
+
+<h3>Cloud computing</h3>
+ <p>
+<img src="https://jadersondiego.com.br/wp-content/uploads/2018/12/aws_logo_smile_1200x630.png" width=35 height=35 />
+</p>
+  
+<h3>Utilities</h3>
+ <p>
+<img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" width=35 height=35 />
+<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" width=35 height=35 />
 </p>
    
 
