@@ -10,8 +10,8 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
   <li>🌱 I'm currently learning aws, react native, and I have solid knowledge in C# </li>
   <li>🧏🏼 Ask me about anything, I am happy to help 😉</li>
   <li>🎸 i play guitar, and i would like to learn piano 🎹</li>
-  <li>📷 I like photoshop a lot, you can even see some of my work [here](https://www.deviantart.com/nearghale)</li>
- </ul>
+  <li>📷 I like photoshop a lot, you can even see some of my work <a href="https://www.deviantart.com/nearghale">Here</a></li>
+</ul>
 
-
-<img src="https://logospng.org/download/linkedin/logo-linkedin-icon-256.png" width=36 height=36>
+<p><h2><b>Where to find me:</b></h2>
+ <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-256.png" width=36 height=36></p>
