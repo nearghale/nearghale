@@ -1,3 +1,5 @@
+<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/urielcaire/aprendamd/master/imgs/solaire.gif">
+
 <h1>Hi, nice to meet you 😄</h1> 
 
 <h3>Welcome to my page!</h3>
