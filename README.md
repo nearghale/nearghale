@@ -42,12 +42,12 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 <h3>Data</h3>
  <p>
 <img src="https://img.icons8.com/color/452/mongodb.png" width=35 height=35 />
-<img src="https://img.icons8.com/color/452/microsoft-sql-server.png" width=35 height=35 />
+<img src="https://img.icons8.com/color/452/microsoft-sql-server.png" width=45 height=35 />
 </p>
 
 <h3>Cloud computing</h3>
  <p>
-<img src="https://jadersondiego.com.br/wp-content/uploads/2018/12/aws_logo_smile_1200x630.png" width=35 height=35 />
+<img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" width=50 height=50 />
 </p>
   
 <h3>Utilities</h3>
