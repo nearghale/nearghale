@@ -18,6 +18,6 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celsoavelinoaraujo/)](https://www.linkedin.com/in/celsoavelinoaraujo/)
    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celsodeveloper13@gmail.com&link=mailto:celsodeveloper13@gmail.com)](mailto:celsodeveloper13@gmail.com)
-   [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511983878747&text=Hello!)](https://api.whatsapp.com/send?phone=5511983878747&text=Olá Celso!)
+   [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511983878747&text=Hello!)](https://api.whatsapp.com/send?phone=5511983878747&text=Hello!!)
 
 
