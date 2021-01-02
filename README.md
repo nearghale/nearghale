@@ -16,4 +16,4 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 
 <h3>Where to find me:</h3>
   <p><a href="https://www.linkedin.com/in/celsoavelinoaraujo/"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-256.png" width=36 height=36></a>
-  <a href="celsodeveloper13@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width=36 height=36></a><p>
+  <a href="https://celsodeveloper13@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width=36 height=36></a><p>
