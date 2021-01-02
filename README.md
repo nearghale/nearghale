@@ -4,5 +4,10 @@
 <p>I'm Celso, Developer mobile from <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" width=20 height=20> <b>Brazil</b>, 
 currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bras%C3%A3o_do_estado_de_S%C3%A3o_Paulo.svg/1200px-Bras%C3%A3o_do_estado_de_S%C3%A3o_Paulo.svg.png" width=20 height=20> <b>São Paulo - SP.</b></p>
 
+<h3>Talking about personal things</h3>
+<ul>
+  <li>I'm currently working on something cool, an altruistic project</li>
+ </ul>
+
 
 <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-256.png" width=36 height=36>
