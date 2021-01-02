@@ -6,7 +6,11 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 
 <h3>Talking about personal things</h3>
 <ul>
-  <li>I'm currently working on something cool, an altruistic project</li>
+  <li>👨🏻‍💻 I'm currently working on something cool, an altruistic project</li>
+  <li>🌱 I'm currently learning aws, react native, and I have solid knowledge in C# </li>
+  <li>🧏🏼 Ask me about anything, I am happy to help 😉</li>
+  <li>🎸 i play guitar, and i would like to learn piano 🎹</li>
+  <li>📷 I like photoshop a lot, you can even see some of my work here</li>
  </ul>
 
 
