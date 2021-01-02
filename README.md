@@ -12,9 +12,9 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
   <li>🎸 i play guitar, and i would like to learn piano 🎹</li>
   <li>📷 I like photoshop a lot, you can even see some of my work <a href="https://www.deviantart.com/nearghale">Here</a></li>
 </ul>
+</br>
 
-<h2>Where to find me:</h2></br>
-<p>
+<h3>Where to find me:</h3>
+
   <a href="https://www.linkedin.com/in/celsoavelinoaraujo/"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-256.png" width=36 height=36></a>
   <a href="https://www.linkedin.com/in/celsoavelinoaraujo/"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width=36 height=36></a>
-</p>
