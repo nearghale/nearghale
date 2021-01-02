@@ -24,10 +24,25 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
    
 <h2>My Development Stack</h2>
    
-<h3>Aplication and data</h3>
+<h3>Languages</h3>
 <p>
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width=35 height=35/>
 <img src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png" width=35 height=35/>
 <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width=35 height=35/>
+<img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-iacute-cone-da-linguagem-de-programa-ccedil-atilde-o-java-by-vexels.png" width=35 height=35/>
+<img src="https://image.flaticon.com/icons/png/512/732/732212.png" width=35 height=35/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" width=35 height=40/></p>
+
+<h3>Frameworks</h3>
+<p>
+<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width=35 height=35/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width=35 height=35/>
+ </p> 
+
+<h3>Data<h3>
+ <p>
+<img src="https://img.icons8.com/color/452/mongodb.png" width=35 height=35 />
+<img src="https://img.icons8.com/color/452/mongodb.png" width=35 height=35 />
 </p>
    
 
