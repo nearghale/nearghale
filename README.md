@@ -13,5 +13,8 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
   <li>📷 I like photoshop a lot, you can even see some of my work <a href="https://www.deviantart.com/nearghale">Here</a></li>
 </ul>
 
-<p><h2><b>Where to find me:</b></h2>
- <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-256.png" width=36 height=36></p>
+<h2>Where to find me:</h2></br>
+<p>
+  <a href="https://www.linkedin.com/in/celsoavelinoaraujo/"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-256.png" width=36 height=36></a>
+  <a href="https://www.linkedin.com/in/celsoavelinoaraujo/"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width=36 height=36></a>
+</p>
