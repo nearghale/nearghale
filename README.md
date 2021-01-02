@@ -15,5 +15,7 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 </br>
 
 <h3>Where to find me:</h3>
-  <p><a href="https://www.linkedin.com/in/celsoavelinoaraujo/"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-256.png" width=36 height=36></a>
-  <a href="https://celsodeveloper13@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" width=36 height=36></a><p>
+
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celsoavelinoaraujo/)](https://www.linkedin.com/in/celsoavelinoaraujo/)
+   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celsodeveloper13@gmail.com&link=mailto:celsodeveloper13@gmail.com)](mailto:celsodeveloper13@gmail.com)
+
