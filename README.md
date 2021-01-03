@@ -55,6 +55,8 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" width=35 height=35 />
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" width=35 height=35 />
 </p>
+
+</br>
 </br>
 
 <p align="center">
@@ -63,5 +65,5 @@ explore my projects😉
  
 
 <p align="center">
-  <img width="200" height="200" src="https://media3.giphy.com/media/dag3u5WDrPRzazUIDe/200w.webp?cid=ecf05e4767047a38fba28b7f17345a14080e9c4e4232fe25&rid=200w.webp" />
+  <img width="200" height="200" src="https://media3.giphy.com/media/ZCHGgJc3zKM3w7Ds8l/giphy.gif?cid=ecf05e479bba78ab8497a56c806d9826181959ed57ac933d&rid=giphy.gif" />
 </p>
