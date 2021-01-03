@@ -57,7 +57,9 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 </p>
 
 
-<h1>explore my projects😉</h1>
+<p align="center">
+explore my projects😉
+</p>
  
 
 <p align="center">
