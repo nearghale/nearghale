@@ -39,7 +39,7 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width=35 height=35/>
 </p> 
 
-<h3>Database</h3>
+<h3>Databases</h3>
  <p>
 <img src="https://img.icons8.com/color/452/mongodb.png" width=35 height=35 />
 <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" width=45 height=35 />
