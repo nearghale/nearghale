@@ -59,8 +59,6 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nearghale&layout=compact&show_icons=true&bg_color=ffffff&icon_color=161616&text_color=161616)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
 explore my projects 😉
 </p>
