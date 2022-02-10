@@ -38,6 +38,8 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 <p>
 <code><img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" width=35 height=35/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width=35 height=35/></code>
+<code><img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+gatsby-1324451302683869391.png" width=35 height=35/></code>
+
 </p> 
 
 <h3>Databases</h3>
