@@ -33,6 +33,8 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 <code><img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-iacute-cone-da-linguagem-de-programa-ccedil-atilde-o-java-by-vexels.png" width=35 height=35/></code>
 <code><img src="https://image.flaticon.com/icons/png/512/732/732212.png" width=35 height=35/></code>
 <code><img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" width=35 height=40/></p></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width=35 height=40/></p></code>
+
 
 <h3>Frameworks</h3>
 <p>
