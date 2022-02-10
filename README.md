@@ -47,7 +47,8 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 <h3>Databases</h3>
  <p>
   <code><img src="https://img.icons8.com/color/452/mongodb.png" width=35 height=35 /></code>
-<code><img src="https://img.icons8.com/color/452/microsoft-sql-server.png" width=45 height=35 /></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width=35 height=35 /></code>
+  <code><img src="https://img.icons8.com/color/452/microsoft-sql-server.png" width=45 height=35 /></code>
 </p>
 
 <h3>Cloud computing</h3>
