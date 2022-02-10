@@ -26,7 +26,6 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
    
 <h3>Languages</h3>
 <p>
-<code><img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width=35 height=35/></code>
 <code><img src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png" width=35 height=35/></code>
 <code><img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width=35 height=35/></code>
 <code><img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width=31 height=31/></code>
