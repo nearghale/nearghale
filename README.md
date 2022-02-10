@@ -33,6 +33,7 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 <code><img src="https://image.flaticon.com/icons/png/512/732/732212.png" width=35 height=35/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width=35 height=40/></p></code>
 <code><img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" width=35 height=40/></p></code>
+</p>
 
 
 <h3>Frameworks</h3>
