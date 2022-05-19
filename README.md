@@ -69,7 +69,3 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 explore my projects 😉
 </p>
  
-
-<p align="center">
-  <img width="200" height="200" src="https://media3.giphy.com/media/ZCHGgJc3zKM3w7Ds8l/giphy.gif?cid=ecf05e479bba78ab8497a56c806d9826181959ed57ac933d&rid=giphy.gif" />
-</p>
