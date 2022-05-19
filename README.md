@@ -30,7 +30,6 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
 <code><img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width=35 height=35/></code>
 <code><img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width=31 height=31/></code>
 <code><img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-iacute-cone-da-linguagem-de-programa-ccedil-atilde-o-java-by-vexels.png" width=35 height=35/></code>
-<code><img src="https://image.flaticon.com/icons/png/512/732/732212.png" width=35 height=35/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width=35 height=40/></code>
 <code><img src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" width=35 height=40/></code>
 </p>
