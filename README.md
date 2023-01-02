@@ -59,7 +59,7 @@ currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thu
  <p>
 <code><img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" width=35 height=35 /></code>
 <code><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" width=35 height=35 /></code>
-<code><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/jest-1024.png" width=35 height=35 /></code>
+<code><img src="https://cdn.iconscout.com/icon/free/png-256/jest-3629451-3031514.png" width=35 height=35 /></code>
 </p>
 
 </br>
